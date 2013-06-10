@@ -102,9 +102,7 @@ img {
 }
 
 
-img:hover {
-background: url(../img/hover%20spiral.jpg) no-repeat;
-}
+
 
 .dropdown-toggle {
 	color: #ec2016;
