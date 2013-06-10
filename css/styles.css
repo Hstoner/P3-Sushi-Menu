@@ -1,0 +1,136 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	background: #fff;
+}
+#nav {
+	color: #fff;
+	position: relative;
+	left: 270px;
+	
+}
+
+.logo {
+	border: none;
+	height: 150px;
+	width: 250px;
+}
+
+.fish {
+	height: 40px;
+	width: 60px;
+	border: none;
+	position: relative;
+	left: 28px;
+}
+
+#First-4 {
+	width: 200px;
+	height: 200px;
+	margin: 5px 5px;
+}
+
+#Last-4 {
+	width: 200px;
+	height: 200px;
+	margin: 5px 5px;
+}
+
+h3 {
+	color: #ec2016;
+	position: relative;
+	left: 28px;
+}
+
+p {
+	color: #ec2016;
+	position: relative;
+	left: 28px;
+}
+
+#price {
+	color: #000;
+	position: relative;
+	left: 28px;
+}
+
+#logo {
+	position: relative;
+	left: 40px;
+}
+
+.heading {
+	font-family: Helvetica, serif;
+	color: #ec2016;
+}
+
+.thumbnails {
+	background: url(../img/shoji.jpg);
+	color: #ec2016;
+	margin: 0px 0px;
+	height:1030px;
+	width: 980px;
+	border: #000 solid 5px;
+	
+}
+
+	
+
+.thumbnail {
+background: #000;
+display: block;
+padding: 12px 12px 12px 12px;
+line-height: 20px;
+border: none;
+width: 290px;
+height: 290px;
+position: relative;
+top: 25px;
+right: 7px;
+}
+
+li {
+	border: none;
+}
+	
+img {
+	height: 220px;
+	width: 220px;
+	border: #ec2016 solid 5px;
+	position: relative;
+	
+}
+
+
+img:hover {
+background: url(../img/hover%20spiral.jpg) no-repeat;
+}
+
+.dropdown-toggle {
+	color: #ec2016;
+	text-decoration: none;
+}
+
+a:link { 
+color: #ec2016;
+text-decoration: none;
+}
+
+a:visited {
+	color: #ec2016;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #fff;
+	text-decoration: none;
+}
+
+#tool {
+	color: #ec2016;
+}
+
+
+
+	
+	
